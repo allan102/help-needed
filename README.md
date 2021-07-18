@@ -1,5 +1,7 @@
 # help-needed
 
+c++ course
+
 homework assignment #4 Conventions and Operators
 
 unable to put formula together due to inexperience - any help appreciated - 
