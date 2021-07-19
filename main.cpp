@@ -28,7 +28,7 @@ int main()
 
     x2 = -b - ((b*b)- ((4*a)* c) / (b*b) - ((4*a) * c)) / (2*a)) ;
     
-  /*  x1 = power * by ?
+  /*  x1 = x1 * power ? 
         
      x2 = sqrt? 
         
