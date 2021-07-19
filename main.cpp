@@ -32,7 +32,9 @@ int main()
         
      x2 = sqrt? 
         
-     or visa versa for x1 and x2  */
+     or visa versa for x1 and x2  
+     
+     and or visa versa for sums (line 27 and 29 being plus or negative starts*/
 
 
 
