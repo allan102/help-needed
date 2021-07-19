@@ -27,6 +27,12 @@ int main()
     x1 = -b + ((b*b)- ((4*a)* c) / (b*b) - ((4*a) * c)) / (2*a)) ;
 
     x2 = -b - ((b*b)- ((4*a)* c) / (b*b) - ((4*a) * c)) / (2*a)) ;
+    
+  /*  x1 = power * by ?
+        
+    x2 = squrt? 
+        
+   or visa versa*/
 
 
 
