@@ -30,9 +30,9 @@ int main()
     
   /*  x1 = power * by ?
         
-    x2 = squrt? 
+     x2 = squrt? 
         
-   or visa versa*/
+     or visa versa for x1 and x2  */
 
 
 
